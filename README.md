@@ -65,7 +65,3 @@ Feel free to submit issues and pull requests. Contributions are welcome!
 
 This project is licensed under the MIT License.
 
----
-
-Feel free to customize this `README.md` to better fit your project details and preferences. Happy coding! 😊
-
