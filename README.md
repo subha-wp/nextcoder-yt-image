@@ -16,17 +16,15 @@ In this project, you'll learn how to create a web application that generates ima
 ## Features
 
 - **Next.js 14 Integration**: Leverage the latest features of Next.js for optimal performance.
-- **OpenAI API**: Connect to OpenAI's powerful API to generate images from text prompts.
 - **Responsive Design**: Build a user-friendly interface with React components and Tailwind CSS.
 - **API Handling**: Efficiently manage API requests and responses.
-- **Deployment**: Deploy your application seamlessly using Vercel.
 
 ## Getting Started
 
 ### Prerequisites
 
 - Node.js and npm installed
-- OpenAI API key
+- FalAI API key
 
 ### Installation
 
